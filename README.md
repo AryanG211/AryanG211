@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently building **GENSketcher – AI-powered Sketch-to-Image Generation**
+- 🔭 Currently upgrading **Neural Secuirty**
 - 🌱 Exploring **Retrieval-Augmented Generation (RAG) & Large Language Models (LLMs)**
 - 💡 Strong interest in **Deep Learning, Computer Vision & Generative AI**
 - 🎯 Mission: Create **AI systems that solve real-world problems** in Healthcare, Security & Edge AI
@@ -52,21 +52,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryang211&theme=onedark&margin-w=10&margin-h=10&row=1&column=6" alt="trophies" />
-</p>
-
----
-
 ## 🚀 Featured Projects
-📌 **[GENSketcher](#)**  
+📌 **[Neural Security](#)**  
 _AI-powered Sketch-to-Image system using Pix2Pix, ResNet, and FAISS for face retrieval._  
-
-🌲 **[Forest Fire Simulation](#)**  
-_Predicting fire spread with U-Net, LSTM, and Cellular Automata for disaster management._  
-
-🩺 **[Health Report Analyzer](#)**  
+ 
+🩺 **[AI Powered Medical Report Analyzer](#)**  
 _RAG-powered FastAPI backend for analyzing health reports & predicting risks (Diabetes, Heart Disease, Anemia)._  
 
 ---
