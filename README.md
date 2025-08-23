@@ -1,30 +1,62 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)]
-<h1 align="center">Hi 👋, I'm Aryan G</h1>
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://github.com/aryang211)
 
-<h3 align="center">A passionate Machine learning developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aryan G</h1>
+<h3 align="center">🚀 A Passionate Machine Learning & AI Developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryang211&label=Profile%20views&color=0e75b6&style=flat" alt="aryang211" /> </p>
 
-- 🔭 I’m currently working on **GENSketcher**
+---
 
-- 🌱 I’m currently learning **RAG , LLM**
+### 👨‍💻 About Me
+- 🔭 Currently working on **GENSketcher – AI-powered Sketch-to-Image Generation**
+- 🌱 Exploring **RAG (Retrieval-Augmented Generation) & Large Language Models (LLMs)**
+- 💡 Passionate about **Deep Learning, Computer Vision, and Generative AI**
+- 🎯 Goal: To build **AI systems for real-world applications** (Healthcare, Security, and Edge AI)
+- 📫 Reach me at **aryangurunath001@gmail.com**
 
-- 💬 Ask me about **Deep learning or Machine learning**
+---
 
-- 📫 How to reach me **aryangurunath001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aryangurunath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryangurunath/" height="30" width="40" /></a>
-<a href="https://instagram.com/aryan.g.2610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan.g.2610" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryangurunath/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/></a>
+<a href="https://instagram.com/aryan.g.2610" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryang211&show_icons=true&locale=en&layout=compact" alt="aryang211" /></p>
+### 🛠️ Languages & Tools:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,mysql,mongodb,react,flask,bootstrap,git,aws,c,cpp,figma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryang211&show_icons=true&locale=en" alt="aryang211" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryang211&" alt="aryang211" /></p>
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aryang211&show_icons=true&theme=tokyonight" alt="stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryang211&layout=compact&theme=tokyonight" alt="langs" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aryang211&theme=tokyonight" alt="streak" height="170"/>
+</p>
+
+---
+
+### 🏆 GitHub Achievements:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aryang211&theme=onedark&margin-w=10&margin-h=10&row=1&column=6" alt="trophies" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🖼️ **[GENSketcher](#)** – Sketch-to-Image AI using Pix2Pix + ResNet + FAISS  
+- 🌲 **[Forest Fire Simulation](#)** – Predicting fire spread with U-Net, LSTM, and Cellular Automata  
+- 🩺 **[Health Report Analyzer](#)** – RAG-powered system for medical report insights using FastAPI + ML Models  
+
+---
+
+⭐️ From [Aryan G](https://github.com/aryang211)  
