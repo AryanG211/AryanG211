@@ -67,15 +67,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryang211/aryang211/output/snake.svg#gh-light-mode-only" alt="Contribution Snake" />
-  <img src="https://raw.githubusercontent.com/aryang211/aryang211/output/snake-dark.svg#gh-dark-mode-only" alt="Contribution Snake Dark" />
-</p>
-
----
-
 <p align="center">
   ⭐️ From <a href="https://github.com/aryang211">Aryan G</a> | 🌐 <a href="https://aryang-theta.vercel.app/">Portfolio</a>  
 </p>
